@@ -1,0 +1,17 @@
+Species,Species name,Common name,ANP native,Biome,Range,GymnoAngio
+junvi,Juniperus virginiana,eastern redcedar,No,Temperate,Southern,Gymnosperm
+lirtu,Liriodendron tulipifera,Yellow poplar,No,Temperate,Southern,Angiosperm
+pinta,Pinus taeda,Loblolly pine,No,Temperate,Southern,Gymnosperm
+pinvi,Pinus virginiana,Virginia pine,No,Temperate,Southern,Gymnosperm
+queal,Quercus alba,White oak,No,Temperate,Southern,Angiosperm
+quepr,Quercus prinus,Chestnut oak,No,Temperate,Southern,Angiosperm
+robps,Robinia pseudoacacia,Black locust,No,Temperate,Southern,Angiosperm
+abiba,Abies balsamea,Balsam fir,Yes,Boreal,Northern,Gymnosperm
+aceru,Acer rubrum,Red maple,Yes,Temperate,Central,Angiosperm
+picgl,Picea glauca,White spruce,Yes,Boreal,Northern,Gymnosperm
+picru,Picea rubens,Red spruce,Yes,Temperate,Northern,Gymnosperm
+pinba,Pinus banksiana,Jack pine,Yes,Boreal,Northern,Gymnosperm
+pinri,Pinus rigida,Pitch pine,Yes,Temperate,Central,Gymnosperm
+pinst,Pinus strobus,Eastern white pine,Yes,Temperate,Central,Gymnosperm
+pruse,Prunus serotina,Black cherry,Yes,Temperate,Central,Angiosperm
+queru,Quercus rubra,Northern red oak,Yes,Temperate,Central,Angiosperm
